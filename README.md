@@ -16,8 +16,8 @@ Print the result to display the rank of the matrix.
 ## Program:
 ```
 #Program to find the rank of a matrix.
-#Developed by: IRFAN kHAN.N
-#RegisterNumber:212224230097
+#Developed by: kannan R
+#RegisterNumber:212224240072
 import numpy as np
 A = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 result = np.linalg.matrix_rank(A)
